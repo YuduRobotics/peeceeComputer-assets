@@ -1,0 +1,23 @@
+<svg width="300" height="112" viewBox="0 0 300 112" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="112" rx="18" fill="#4C6EF5"/>
+  
+  <!-- icon -->
+  <circle cx="56" cy="56" r="28" fill="#ffffff"/>
+  <circle cx="56" cy="56" r="14" fill="#4C6EF5"/>
+
+  <!-- text -->
+  <text x="100" y="65"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="32"
+        font-weight="bold"
+        fill="white">
+        PeeCee
+  </text>
+
+  <text x="100" y="92"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        fill="#DDE3FF">
+        Computer
+  </text>
+</svg>
